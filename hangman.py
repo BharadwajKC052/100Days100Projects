@@ -5,7 +5,7 @@
 #3.check if the letter user guessed is one of the word in the choosen_word print "Right" if it is else "Wrong.
 
 #Step 2 
-'''    1: creaete a empty string called placeholder
+'''    1: cre 3edaete a empty string called placeholder
        2: for each letter in the choosen_word add a placeholder
        3:so if the choosen_word is apple the placeholder should be _ _ _ _ _
        4: if the user is guessed p then and the choosen word was apple then
